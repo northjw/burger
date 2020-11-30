@@ -1,3 +1,13 @@
+#main {
+  width: 99%;
+  border-color: black;
+  border-style: solid;
+  border-width: 3px;
+  border-radius:5%;
+  background-color: rgb(241, 176, 45);
+  
+}
+
 body {
   width: 99%;
   height: 900px;
@@ -6,6 +16,7 @@ body {
 
 #top-bar {
   margin-top: 28px;
+  align-content: center;
 }
 
 .spacing-reset {
