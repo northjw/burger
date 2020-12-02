@@ -1,4 +1,4 @@
-CREATE DATABASE IF NOT EXISTS burgers_db;
+CREATE DATABASE burgers_db;
 USE qf99oaguts0n1azj;
 
 -- If the table already exists, remove it before trying to create the table again
